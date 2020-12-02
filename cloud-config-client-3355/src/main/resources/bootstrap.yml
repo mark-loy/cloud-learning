@@ -10,11 +10,11 @@ spring:
       name: config # 配置文件名
       profile: dev # 后缀名
       uri: http://localhost:3344 # 分布式配置中心地址
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
+  rabbitmq:
+    host: 192.168.166.128
+    port: 5672
+    username: guest
+    password: guest
 
 # 暴露监控端口
 management:
@@ -22,3 +22,9 @@ management:
     web:
       exposure:
         include: "*"
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
+

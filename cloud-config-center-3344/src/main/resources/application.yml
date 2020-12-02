@@ -11,6 +11,18 @@ spring:
           uri: https://github.com/mark-loy/springcloud-config.git
           search-paths:
             - springcloud-config
+  # rabbitmq配置
+  rabbitmq:
+    host: 192.168.166.128
+    port: 5672
+    username: guest
+    password: guest
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
 
 eureka:
   client:
