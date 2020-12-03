@@ -20,34 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ed13cfc-2acc-4115-81b8-43afcf2b3b59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/mark/springcloud/ConfigClientMain3366.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/mark/springcloud/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/mark/springcloud/RabbitMQConsumer8802.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/mark/springcloud/controller/ReceviMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/mark/springcloud/RabbitMQConsumer8803.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/mark/springcloud/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/mark/springcloud/StreamRabbitMQProvider8801.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/mark/springcloud/controller/SendMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/mark/springcloud/service/SendMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/mark/springcloud/service/impl/SendMessageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/mark/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/mark/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/mark/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/mark/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/META-INF/cloud-gateway-gateway9527.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/mark/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/mark/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/mark/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/mark/springcloud/controller/PaymentController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +97,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35418582" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -143,7 +129,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RabbitMQConsumer8803">
+  <component name="RunManager" selected="Spring Boot.OrderApplication80">
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-client-3366" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.ConfigClientMain3366" />
@@ -321,20 +314,21 @@
       <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
       <item itemvalue="Spring Boot.GatewayMain9527" />
       <item itemvalue="Spring Boot.ConfigClientMain3366" />
+      <item itemvalue="Spring Boot.ConfigServerMain3344" />
+      <item itemvalue="Spring Boot.ConfigClientMain3355" />
       <item itemvalue="Spring Boot.EurekaApplication7001" />
       <item itemvalue="Spring Boot.EurekaApplication7002" />
       <item itemvalue="Spring Boot.StreamRabbitMQProvider8801" />
       <item itemvalue="Spring Boot.RabbitMQConsumer8802" />
-      <item itemvalue="Spring Boot.ConfigServerMain3344" />
       <item itemvalue="Spring Boot.RabbitMQConsumer8803" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaApplication7002" />
+        <item itemvalue="Spring Boot.EurekaApplication7001" />
         <item itemvalue="Spring Boot.RabbitMQConsumer8803" />
         <item itemvalue="Spring Boot.RabbitMQConsumer8802" />
         <item itemvalue="Spring Boot.StreamRabbitMQProvider8801" />
-        <item itemvalue="Spring Boot.EurekaApplication7002" />
-        <item itemvalue="Spring Boot.EurekaApplication7001" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +362,10 @@
       <workItem from="1606622480537" duration="6655000" />
       <workItem from="1606702546900" duration="10388000" />
       <workItem from="1606805749823" duration="633000" />
-      <workItem from="1606875774773" duration="5969000" />
+      <workItem from="1606875774773" duration="8344000" />
+      <workItem from="1606894052267" duration="1859000" />
+      <workItem from="1606896136371" duration="2222000" />
+      <workItem from="1606974975138" duration="639000" />
     </task>
     <servers />
   </component>
@@ -391,10 +388,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="817" y="355" key="#Notifications" timestamp="1606028130026">
+    <state x="817" y="355" width="684" height="330" key="#Notifications" timestamp="1606892777425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="817" y="355" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606028130026" />
+    <state x="817" y="355" width="684" height="330" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606892777425" />
     <state x="312" y="0" key="#Project_Structure" timestamp="1606204318253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -423,38 +420,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="188" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605945875797" />
-    <state width="1504" height="702" key="GridCell.Tab.0.bottom" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.0.bottom" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.0.center" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.0.center" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.0.left" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.0.left" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.0.right" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.0.right" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.1.bottom" timestamp="1606887977574">
+    <state width="1504" height="702" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.1.bottom" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977574" />
-    <state width="1504" height="702" key="GridCell.Tab.1.center" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.1.center" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.1.left" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.1.left" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
-    <state width="1504" height="702" key="GridCell.Tab.1.right" timestamp="1606887977573">
+    <state width="1504" height="702" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
+    <state width="1504" height="702" key="GridCell.Tab.1.right" timestamp="1606905903243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1504" height="702" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606887977573" />
+    <state width="1504" height="702" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606905903243" />
     <state width="1111" height="323" key="GridCell.Tab.2.bottom" timestamp="1606212463800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -475,10 +472,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="401" width="962" height="612" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1606016836734" />
-    <state x="292" y="59" key="SettingsEditor" timestamp="1606714759962">
+    <state x="292" y="0" key="SettingsEditor" timestamp="1606894900223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="292" y="59" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606714759962" />
+    <state x="292" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606894900223" />
     <state width="767" height="615" key="SwitcherDM" timestamp="1606636287337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
