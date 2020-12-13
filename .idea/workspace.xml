@@ -20,46 +20,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ed13cfc-2acc-4115-81b8-43afcf2b3b59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/mark/springcloud/NacosConfigClientMain3377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/mark/springcloud/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/mark/springcloud/NacosConsumerMain83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/mark/springcloud/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/mark/springcloud/controller/NacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/mark/springcloud/OrderNacosMain84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/mark/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/mark/springcloud/controller/CircleBreakerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/mark/springcloud/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/mark/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/mark/springcloud/NacosProviderMain9001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/mark/springcloud/controller/NacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/mark/springcloud/NacosProviderMain9002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/mark/springcloud/controller/NacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/mark/springcloud/ProviderMain9003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/mark/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/mark/springcloud/ProviderMain9004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/mark/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/mark/springcloud/SentinelMain8401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/mark/springcloud/controller/RateLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/mark/springcloud/controller/SentinelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/mark/springcloud/handler/CustomerBlockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/SeataOrder2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/domain/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/mark/springcloud/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/file.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2001/src/main/resources/registry.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/SeataOrderMain2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/controller/StorageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/dao/StorageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/domain/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/domain/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/service/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/java/com/mark/springcloud/service/impl/StorageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/resources/file.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/resources/mapper/StorageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2002/src/main/resources/registry.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/SeataOrderMain2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/config/DataSourceProxyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/domain/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/java/com/mark/springcloud/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/resources/file.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-order-service2003/src/main/resources/registry.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -118,7 +122,7 @@
     <property name="ToolWindowJava Enterprise.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../项目/03-markblog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata-order-service2003/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -135,20 +139,22 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-consumer-order80\src\main\resources" />
-      <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-eureka-server7001\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.mark.springcloud.controller" />
-      <recent name="com.mark.springcloud" />
-      <recent name="com.mark.springcloud.entity" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Idea Project\springcloud\cloud-learning\seata-order-service2003\src\main\resources" />
       <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-provider-payment8002\src\main\java\com\mark\springcloud" />
       <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-provider-payment8002\src\main\java" />
       <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-provider-payment8002\src\main\resources" />
       <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mark.springcloud.config" />
+      <recent name="com.mark.springcloud.domain" />
+      <recent name="com.mark.springcloud.dao" />
+      <recent name="com.mark.springcloud.controller" />
+      <recent name="com.mark.springcloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-consumer-order80\src\main\resources" />
       <recent name="D:\Other\project\Idea Project\springcloud\01-pcloud\cloud-eureka-server7001\src\main\resources" />
     </key>
   </component>
@@ -159,7 +165,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SentinelMain8401">
+  <component name="RunManager" selected="Spring Boot.SeataOrderMain2003">
     <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-client-3355" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.ConfigClientMain3355" />
@@ -216,41 +222,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloudalibaba-config-nacos-client3377" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mark.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.NacosConfigClientMain3377" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosProviderMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloudalibaba-provider-payment9001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mark.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.NacosProviderMain9001" />
+    <configuration name="NacosConsumerMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.NacosConsumerMain83" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosProviderMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloudalibaba-provider-payment9002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mark.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.NacosProviderMain9002" />
+    <configuration name="NacosProviderMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.NacosProviderMain9001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -359,6 +347,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataOrder2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mark.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.SeataOrder2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mark.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.SeataOrderMain2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mark.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mark.springcloud.SeataOrderMain2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SentinelMain8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloudalibaba-sentinel-service8401" />
       <extension name="coverage">
@@ -402,19 +429,22 @@
       <item itemvalue="Spring Boot.EurekaApplication7002" />
       <item itemvalue="Spring Boot.ProviderMain9003" />
       <item itemvalue="Spring Boot.ProviderMain9004" />
-      <item itemvalue="Spring Boot.NacosProviderMain9001" />
-      <item itemvalue="Spring Boot.NacosProviderMain9002" />
-      <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
       <item itemvalue="Spring Boot.SentinelMain8401" />
       <item itemvalue="Spring Boot.OrderNacosMain84" />
+      <item itemvalue="Spring Boot.NacosConsumerMain83" />
+      <item itemvalue="Spring Boot.SeataOrder2001" />
+      <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
+      <item itemvalue="Spring Boot.SeataOrderMain2002" />
+      <item itemvalue="Spring Boot.NacosProviderMain9001" />
+      <item itemvalue="Spring Boot.SeataOrderMain2003" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SeataOrder2001" />
+        <item itemvalue="Spring Boot.SeataOrderMain2003" />
+        <item itemvalue="Spring Boot.SeataOrderMain2002" />
         <item itemvalue="Spring Boot.SentinelMain8401" />
         <item itemvalue="Spring Boot.OrderNacosMain84" />
-        <item itemvalue="Spring Boot.NacosProviderMain9002" />
-        <item itemvalue="Spring Boot.NacosProviderMain9001" />
-        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +484,7 @@
       <workItem from="1606974975138" duration="9167000" />
       <workItem from="1607230423256" duration="3681000" />
       <workItem from="1607321388903" duration="11532000" />
-      <workItem from="1607569000998" duration="5627000" />
+      <workItem from="1607569000998" duration="21233000" />
     </task>
     <servers />
   </component>
@@ -489,18 +519,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="168" y="327" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1605509142532" />
-    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605500327849">
+    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607748312784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605500327849" />
+    <state x="552" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607748312784" />
     <state x="630" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605498607669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="630" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605498607669" />
-    <state x="718" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1607571494127">
+    <state x="718" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1607761661030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607571494127" />
+    <state x="718" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607761661030" />
     <state x="340" y="418" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605507374746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -509,38 +539,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="188" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605945875797" />
-    <state width="1376" height="588" key="GridCell.Tab.0.bottom" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.0.bottom" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.0.center" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.0.center" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.0.left" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.0.left" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.0.right" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.0.right" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.1.bottom" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.1.bottom" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.1.center" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.1.center" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.1.left" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.1.left" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
-    <state width="1376" height="588" key="GridCell.Tab.1.right" timestamp="1607574519411">
+    <state width="1376" height="591" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
+    <state width="1376" height="591" key="GridCell.Tab.1.right" timestamp="1607830673363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1376" height="588" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607574519411" />
+    <state width="1376" height="591" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607830673363" />
     <state width="1111" height="323" key="GridCell.Tab.2.bottom" timestamp="1606212463800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -557,6 +587,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1111" height="323" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606212463800" />
+    <state width="264" height="550" key="HiddenNamespacesPopup" timestamp="1607758200896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="264" height="550" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1607758200896" />
     <state x="473" y="401" width="962" height="612" key="Registry" timestamp="1606016836734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -565,18 +599,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="292" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606894900223" />
-    <state width="767" height="615" key="SwitcherDM" timestamp="1606636287337">
+    <state width="767" height="615" key="SwitcherDM" timestamp="1607762029073">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="767" height="615" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606636287337" />
-    <state x="108" y="223" width="1021" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1605497700188">
+    <state width="767" height="615" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1607762029073" />
+    <state x="108" y="223" width="1021" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1607748238683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="108" y="223" width="1021" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605497700188" />
-    <state x="160" y="101" key="new project wizard" timestamp="1607415872677">
+    <state x="108" y="223" width="1021" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607748238683" />
+    <state x="160" y="101" key="new project wizard" timestamp="1607761052326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="160" y="101" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607415872677" />
+    <state x="160" y="101" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607761052326" />
     <state x="677" y="372" width="781" height="342" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605945877082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/cloud2020?serverTimezone=UTC</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="192.168.166.128" uuid="f4df4502-0a1a-456d-a3f3-aaa3cab8dd5d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.166.128:3306/seata_order</jdbc-url>
+    </data-source>
   </component>
 </project>
